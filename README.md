@@ -6,4 +6,4 @@ I've just enhanced the README.md in our GitHub repository with exciting insights
 
 [Check it out]([https://github.com/YourRepoName](https://github.com/Sushantparpolkar/1st-SQL-Project--Customer-Shopping-Datase)/README.md) and let's continue the data discussion. Your thoughts and contributions are welcome! 💡👩‍💻
 
-#GitHub #DataAnalysis #SQLProject #ReadmeUpdate
+#GitHub #DataAnalysis #SQLProject 
