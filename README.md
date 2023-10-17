@@ -1,4 +1,4 @@
-# 1st-SQL-Project--Customer-Shopping-Datase
+# 1st-SQL-Project--Customer-Shopping-Dataset
 
 📝 **Updated README.md on GitHub**
 
