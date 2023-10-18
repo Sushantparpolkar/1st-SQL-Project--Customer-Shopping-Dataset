@@ -1,3 +1,8 @@
+Create database CustomerShop;
+
+Use CustomerShop;
+
+
 CREATE TABLE Sales (
     invoice_no VARCHAR(10),
     customer_id VARCHAR(10),
